@@ -55,7 +55,7 @@ contract Multiplication {
 
 ---
 ## Nick Zsabo
-![Nick Zsabo][nick-zsabo]
+![Nick Zsabo](http://static2.businessinsider.com/image/54634903ecad04f514a12570-840-479/bitcoin-23.png)
 
 ---
 ## Smart Contract
@@ -64,16 +64,16 @@ Smart contracts go beyond the vending machine in proposing to embed contracts in
 
 ---
 ## Vitalik Buterin
-![Vitalik Buterin][buterin]
+![Vitalik Buterin](http://www.coinfox.info/images/buteriiin.jpg)
 
 ---
 ## Ethereum
-![Ethereum][buterin-eth]
+![Ethereum](imgs/VitalikButerin_Ethereum.jpg)
 
 ---
 ## Ethereum Blockchain
-![Ethereum Blockchain][eth-block]
-![State Transition][state-fn]
+![Ethereum Blockchain](https://raw.githubusercontent.com/ethereumbuilders/GitBook/master/en/vitalik-diagrams/apply_block_diagram.png)
+![State Transition](https://raw.githubusercontent.com/ethereumbuilders/GitBook/master/en/vitalik-diagrams/ethertransition.png)
 
 ---
 
