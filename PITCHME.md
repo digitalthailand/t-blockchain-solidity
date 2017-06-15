@@ -3,6 +3,32 @@
 ## Quick Course
 
 ---
+## Nick Zsabo
+![Nick Zsabo](http://static2.businessinsider.com/image/54634903ecad04f514a12570-840-479/bitcoin-23.png)
+
+---
+## Smart Contract
+
+Smart contracts go beyond the vending machine in proposing to embed contracts in all sorts of property that is valuable and controlled by digital means. Smart contracts reference that property in a dynamic, often proactively enforced form, and provide much better observation and verification where proactive measures must fall short.
+
+---
+## Vitalik Buterin
+![Vitalik Buterin](http://www.coinfox.info/images/buteriiin.jpg)
+
+---
+## Ethereum
+![Ethereum](imgs/VitalikButerin_Ethereum.jpg)
+
+---
+## Bitcoin's Script
+
+Bitcoin uses a scripting system for transactions. Forth-like, Script is simple, stack-based, and processed from left to right. It is purposefully not Turing-complete, with no loops.
+
+### references:
+* [BitcoinWiki / Script](https://en.bitcoin.it/wiki/Script)
+* [Example Script](https://bitcoin.org/en/developer-guide#p2pkh-script-validation)
+
+---
 
 ```
 contract Multiplication {
@@ -54,38 +80,12 @@ contract Multiplication {
 ---?gist=6c2b4f9679c0fc55b7b1ef614a9d81ee
 
 ---
-## Nick Zsabo
-![Nick Zsabo](http://static2.businessinsider.com/image/54634903ecad04f514a12570-840-479/bitcoin-23.png)
-
----
-## Smart Contract
-
-Smart contracts go beyond the vending machine in proposing to embed contracts in all sorts of property that is valuable and controlled by digital means. Smart contracts reference that property in a dynamic, often proactively enforced form, and provide much better observation and verification where proactive measures must fall short.
-
----
-## Vitalik Buterin
-![Vitalik Buterin](http://www.coinfox.info/images/buteriiin.jpg)
-
----
-## Ethereum
-![Ethereum](imgs/VitalikButerin_Ethereum.jpg)
-
----
 ## Ethereum Blockchain
 ![Ethereum Blockchain](https://raw.githubusercontent.com/ethereumbuilders/GitBook/master/en/vitalik-diagrams/apply_block_diagram.png)
 
 ---
 ## Ethereum Blockchain (cont.)
 ![State Transition](https://raw.githubusercontent.com/ethereumbuilders/GitBook/master/en/vitalik-diagrams/ethertransition.png)
-
----
-## Bitcoin's Script
-
-Bitcoin uses a scripting system for transactions. Forth-like, Script is simple, stack-based, and processed from left to right. It is purposefully not Turing-complete, with no loops.
-
-references:
-* [BitcoinWiki / Script][https://en.bitcoin.it/wiki/Script]
-* [Example Script][https://bitcoin.org/en/developer-guide#p2pkh-script-validation]
 
 ---
 
