@@ -8,7 +8,8 @@
 contract Multiplication {
 
     int _multiplier;
-    event Multiplied(int indexed a, address indexed sender, int result );
+    event Multiplied(int indexed a,
+        address indexed sender, int result );
 
     function Multiplication(int multiplier) {
         _multiplier = multiplier;
@@ -22,7 +23,10 @@ contract Multiplication {
 }
 ```
 @[1]
-@[1-16]
+@[11-16]
+@[7-9]
+@[3]
+@[1-17]
 
 
 ---?gist=6c2b4f9679c0fc55b7b1ef614a9d81ee
