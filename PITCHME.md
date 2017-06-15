@@ -20,6 +20,8 @@ contract Multiplication {
        return r;
     }
 }
+
+@[1]
 ```
 
 ---?gist=6c2b4f9679c0fc55b7b1ef614a9d81ee
