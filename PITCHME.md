@@ -23,10 +23,10 @@ contract Multiplication {
 }
 ```
 @[1]
-@[11-16]
+@[11-15]
 @[7-9]
 @[3]
-@[1-17]
+@[1-16]
 
 
 ---?gist=6c2b4f9679c0fc55b7b1ef614a9d81ee
