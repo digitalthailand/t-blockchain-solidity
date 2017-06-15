@@ -54,5 +54,35 @@ contract Multiplication {
 ---?gist=6c2b4f9679c0fc55b7b1ef614a9d81ee
 
 ---
+## Nick Zsabo
+![Nick Zsabo][nick-zsabo]
+
+---
+## Smart Contract
+
+Smart contracts go beyond the vending machine in proposing to embed contracts in all sorts of property that is valuable and controlled by digital means. Smart contracts reference that property in a dynamic, often proactively enforced form, and provide much better observation and verification where proactive measures must fall short.
+
+---
+## Vitalik Buterin
+![Vitalik Buterin][buterin]
+
+---
+## Ethereum
+![Ethereum][buterin-eth]
+
+---
+## Ethereum Blockchain
+![Ethereum Blockchain][eth-block]
+![State Transition][state-fn]
+
+---
 
 ## Q & A
+
+
+[nick-zsabo]: http://static2.businessinsider.com/image/54634903ecad04f514a12570-840-479/bitcoin-23.png "Nick Zsabo, from: https://alchetron.com/Nick-Szabo-842137-W"
+[buterin]: http://www.coinfox.info/images/buteriiin.jpg "Vitalik Buterin, from http://www.coinfox.info/news/video/5460-vitalik-buterin-o-blokchejne-i-nadezhnosti-ethereum-2"
+[buterin-eth]: imgs/VitalikButerin_Ethereum.jpg "Buterin founder of Ethereum"
+
+[eth-block]: https://raw.githubusercontent.com/ethereumbuilders/GitBook/master/en/vitalik-diagrams/apply_block_diagram.png "Ethereum Blockchain, source: https://github.com/ethereum/wiki/wiki/White-Paper"
+[state-fn]: https://raw.githubusercontent.com/ethereumbuilders/GitBook/master/en/vitalik-diagrams/ethertransition.png "State Transition Function, source: https://github.com/ethereum/wiki/wiki/White-Paper"
