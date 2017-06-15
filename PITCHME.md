@@ -73,7 +73,19 @@ Smart contracts go beyond the vending machine in proposing to embed contracts in
 ---
 ## Ethereum Blockchain
 ![Ethereum Blockchain](https://raw.githubusercontent.com/ethereumbuilders/GitBook/master/en/vitalik-diagrams/apply_block_diagram.png)
+
+---
+## Ethereum Blockchain (cont.)
 ![State Transition](https://raw.githubusercontent.com/ethereumbuilders/GitBook/master/en/vitalik-diagrams/ethertransition.png)
+
+---
+## Bitcoin's Script
+
+Bitcoin uses a scripting system for transactions. Forth-like, Script is simple, stack-based, and processed from left to right. It is purposefully not Turing-complete, with no loops.
+
+references:
+* [BitcoinWiki / Script][https://en.bitcoin.it/wiki/Script]
+* [Example Script][https://bitcoin.org/en/developer-guide#p2pkh-script-validation]
 
 ---
 
